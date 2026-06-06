@@ -1,6 +1,10 @@
 # Disaster Tweet Classification
 
-Training and inference scripts for detecting disaster-related tweets for the Kaggle Natural Language Processing with Disaster Tweets project.
+This repository contains the research project I worked on for detecting disaster-related tweets in the Kaggle Natural Language Processing with Disaster Tweets competition.
+
+The project write-up is available here: [Kaggle.pdf](Kaggle.pdf).
+
+Training and inference scripts are included for several ELECTRA-based model variants.
 
 ## Scripts
 
